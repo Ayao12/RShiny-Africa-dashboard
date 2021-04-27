@@ -1,0 +1,14 @@
+name: RShinyCovid
+title: RShinyCovid
+username:
+account: ayaofreeman
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4039095
+bundleId: 4526997
+url: https://ayaofreeman.shinyapps.io/rshinycovid/
+when: 1619558459.58944
+lastSyncTime: 1619558459.58944
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app_Inital.R
