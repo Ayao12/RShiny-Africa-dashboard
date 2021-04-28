@@ -105,19 +105,19 @@ header <- dashboardHeader( title = HTML("Dashboard COVID"),
                                                  from = 'Twitter',
                                                  message = "",
                                                  icon = icon("twitter"),
-                                                 href = "https://twitter.com/intent/tweet?url=http%3A%2F%2Ftradeintelligence.mbie.govt.nz&text=New%20Zealand%20Trade%20Intelligence%20Dashboard"
+                                                 href = "https://twitter.com/intent/tweet?text=https%3A//ayaofreeman.shinyapps.io/rshinycovid/"
                                                ),
                                                messageItem(
                                                  from = 'Facebook',
                                                  message = "",
                                                  icon = icon("facebook"),
-                                                 href = "https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ftradeintelligence.mbie.govt.nz"
+                                                 href = "https://www.facebook.com/sharer/sharer.php?u=https%3A//ayaofreeman.shinyapps.io/rshinycovid/"
                                                ),
                                                messageItem(
                                                  from = 'LinkedIn',
                                                  message = "",
                                                  icon = icon("linkedin"),
-                                                 href = "http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Ftradeintelligence.mbie.govt.nz&title=New%20Zealand%20Trade%20Intelligence%20Dashboard"
+                                                 href = "https://www.linkedin.com/shareArticle?mini=true&url=https%3A//ayaofreeman.shinyapps.io/rshinycovid/&title=&summary=&source="
                                                )
                            )
 )
